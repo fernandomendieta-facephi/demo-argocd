@@ -1,0 +1,7 @@
+apiVersion: v2
+name: demo-nginx
+version: 0.1.0
+dependencies:
+  - name: nginx
+    version: 21.0.7
+    repository: https://charts.bitnami.com/bitnami
